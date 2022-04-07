@@ -1,4 +1,4 @@
-# openocd-blackfin
+# OpenOCD Blackfin
 
 ## Source
 
