@@ -1,3 +1,9 @@
+# openocd-blackfin
+
+Copied from ftp.analog.com
+
+## Build
+
 To build this OpenOCD source package, you will need a Linux machine for building.
 For building Win32 host OpenOCD, you will need a cross compiler targeted for Win32.
 You can use mingw-w64.
