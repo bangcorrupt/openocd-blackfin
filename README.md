@@ -1,6 +1,6 @@
 # openocd-blackfin
 
-Copied from ftp.analog.com
+Copied from `ftp://ftp.analog.com/pub/tools/patches/gnu_sources/cces/2.10.0/openocd-cces-2.10.0-src.tar.gz`
 
 ## Build
 
