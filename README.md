@@ -11,9 +11,9 @@ You can use mingw-w64.
 BuildToolChain in buildscript directory can be used to build OpenOCD and libraries
 in this package. If you build it natively on Linux, run
 
-  ./BuildToolChain openocd
+    ./BuildToolChain openocd
 
 If you build for Win32 host, run
 
-  ./BuildToolChain -H i686-w64-mingw32 openocd
+    ./BuildToolChain -H i686-w64-mingw32 openocd
 
