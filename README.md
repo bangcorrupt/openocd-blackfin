@@ -1,4 +1,4 @@
-# openocd-blackfin
+# openocd-cces
 
 ## Source
 
